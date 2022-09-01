@@ -1,0 +1,23 @@
+
+.header{
+    background-color: aqua;
+   
+        
+    img{
+    background-color: violet;
+    margin: 20px;
+    }
+    ul {
+    list-style: none;
+    background-color: red;
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+    }
+    form {
+
+        margin: 20px;
+       }
+    }
